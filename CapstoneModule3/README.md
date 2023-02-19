@@ -15,4 +15,4 @@ Analisis Regresi, dimana Analisis regresi dalam statistika adalah salah satu met
 
 # Note
 
-Apabila ingin menggunakan model yang telah dibangun, anda dapat secara langsung menggunakan file "model.pkl". Namun dengan catatan, terdapat limitasi variabel pada data pengujian, yaitu model hanya menerima data yang memiliki variabel Type, Make, Gear_Type, Origin, Options, Year, Engine_Size, Mileage, dan Price. Demonstrasi penggunakan file "model.pkl" dapat dilihat pada fie "TestPickle.ipynb".
+Apabila ingin menggunakan model yang telah dibangun, anda dapat secara langsung menggunakan file "model.pkl". Namun dengan catatan, terdapat limitasi variabel pada data pengujian, yaitu model hanya menerima data yang memiliki variabel Type, Make, Gear_Type, Origin, Options, Year, Engine_Size, Mileage, dan Price. Contoh data yang diterima beserta demonstrasi penggunakan file "model.pkl" dapat dilihat pada fie "TestPickle.ipynb".
