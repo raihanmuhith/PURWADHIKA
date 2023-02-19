@@ -11,3 +11,8 @@ Berdasarkan latar belakang, tantangan yang harus diselesaikan oleh Syarah adalah
 # Approach
 
 Analisis Regresi, dimana Analisis regresi dalam statistika adalah salah satu metode untuk menentukan hubungan sebab-akibat antara satu variabel dengan variabel yang lain. Analisis Regresi akan dilakukan dengan menggunakan bantuan machine learning. Sehingga yang menemukan karakteristik pembeda harga mobil satu dengan yang lainnya adalah sebuah model machine learning itu sendiri.
+
+
+# Note
+
+Apabila ingin menggunakan model yang telah dibangun, anda dapat secara langsung menggunakan file "model.pkl". Namun dengan catatan, terdapat limitasi variabel pada data pengujian, yaitu model hanya menerima data yang memiliki variabel Type, Make, Gear_Type, Origin, Options, Year, Engine_Size, Mileage, dan Price. Demonstrasi penggunakan file "model.pkl" dapat dilihat pada fie "TestPickle.ipynb".
